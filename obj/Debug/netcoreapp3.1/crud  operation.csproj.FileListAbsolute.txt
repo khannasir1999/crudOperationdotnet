@@ -1,0 +1,130 @@
+C:\Users\SA Systems\source\repos\crud  operation\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\SA Systems\source\repos\crud  operation\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\SA Systems\source\repos\crud  operation\bin\Debug\netcoreapp3.1\crud  operation.exe
+C:\Users\SA Systems\source\repos\crud  operation\bin\Debug\netcoreapp3.1\crud  operation.deps.json
+C:\Users\SA Systems\source\repos\crud  operation\bin\Debug\netcoreapp3.1\crud  operation.runtimeconfig.json
+C:\Users\SA Systems\source\repos\crud  operation\bin\Debug\netcoreapp3.1\crud  operation.runtimeconfig.dev.json
+C:\Users\SA Systems\source\repos\crud  operation\bin\Debug\netcoreapp3.1\crud  operation.dll
+C:\Users\SA Systems\source\repos\crud  operation\bin\Debug\netcoreapp3.1\crud  operation.pdb
+C:\Users\SA Systems\source\repos\crud  operation\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\SA Systems\source\repos\crud  operation\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SA Systems\source\repos\crud  operation\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SA Systems\source\repos\crud  operation\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SA Systems\source\repos\crud  operation\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\SA Systems\source\repos\crud  operation\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\SA Systems\source\repos\crud  operation\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\SA Systems\source\repos\crud  operation\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\SA Systems\source\repos\crud  operation\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SA Systems\source\repos\crud  operation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SA Systems\source\repos\crud  operation\obj\Debug\netcoreapp3.1\crud  operation.csproj.AssemblyReference.cache
+C:\Users\SA Systems\source\repos\crud  operation\obj\Debug\netcoreapp3.1\crud  operation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SA Systems\source\repos\crud  operation\obj\Debug\netcoreapp3.1\crud  operation.AssemblyInfoInputs.cache
+C:\Users\SA Systems\source\repos\crud  operation\obj\Debug\netcoreapp3.1\crud  operation.AssemblyInfo.cs
+C:\Users\SA Systems\source\repos\crud  operation\obj\Debug\netcoreapp3.1\crud  operation.csproj.CoreCompileInputs.cache
+C:\Users\SA Systems\source\repos\crud  operation\obj\Debug\netcoreapp3.1\crud  operation.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SA Systems\source\repos\crud  operation\obj\Debug\netcoreapp3.1\crud  operation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SA Systems\source\repos\crud  operation\obj\Debug\netcoreapp3.1\staticwebassets\crud  operation.StaticWebAssets.Manifest.cache
+C:\Users\SA Systems\source\repos\crud  operation\obj\Debug\netcoreapp3.1\crud  operation.RazorTargetAssemblyInfo.cache
+C:\Users\SA Systems\source\repos\crud  operation\obj\Debug\netcoreapp3.1\crud  operation.csproj.CopyComplete
+C:\Users\SA Systems\source\repos\crud  operation\obj\Debug\netcoreapp3.1\crud  operation.dll
+C:\Users\SA Systems\source\repos\crud  operation\obj\Debug\netcoreapp3.1\crud  operation.pdb
+C:\Users\SA Systems\source\repos\crud  operation\obj\Debug\netcoreapp3.1\crud  operation.genruntimeconfig.cache
+D:\Nasir\crud  operation .NetCore controller apis\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Nasir\crud  operation .NetCore controller apis\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Nasir\crud  operation .NetCore controller apis\bin\Debug\netcoreapp3.1\crud  operation.exe
+D:\Nasir\crud  operation .NetCore controller apis\bin\Debug\netcoreapp3.1\crud  operation.deps.json
+D:\Nasir\crud  operation .NetCore controller apis\bin\Debug\netcoreapp3.1\crud  operation.runtimeconfig.json
+D:\Nasir\crud  operation .NetCore controller apis\bin\Debug\netcoreapp3.1\crud  operation.runtimeconfig.dev.json
+D:\Nasir\crud  operation .NetCore controller apis\bin\Debug\netcoreapp3.1\crud  operation.dll
+D:\Nasir\crud  operation .NetCore controller apis\bin\Debug\netcoreapp3.1\crud  operation.pdb
+D:\Nasir\crud  operation .NetCore controller apis\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Nasir\crud  operation .NetCore controller apis\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Nasir\crud  operation .NetCore controller apis\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Nasir\crud  operation .NetCore controller apis\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Nasir\crud  operation .NetCore controller apis\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Nasir\crud  operation .NetCore controller apis\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Nasir\crud  operation .NetCore controller apis\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Nasir\crud  operation .NetCore controller apis\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Nasir\crud  operation .NetCore controller apis\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Nasir\crud  operation .NetCore controller apis\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Nasir\crud  operation .NetCore controller apis\obj\Debug\netcoreapp3.1\crud  operation.csproj.AssemblyReference.cache
+D:\Nasir\crud  operation .NetCore controller apis\obj\Debug\netcoreapp3.1\crud  operation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nasir\crud  operation .NetCore controller apis\obj\Debug\netcoreapp3.1\crud  operation.AssemblyInfoInputs.cache
+D:\Nasir\crud  operation .NetCore controller apis\obj\Debug\netcoreapp3.1\crud  operation.AssemblyInfo.cs
+D:\Nasir\crud  operation .NetCore controller apis\obj\Debug\netcoreapp3.1\crud  operation.csproj.CoreCompileInputs.cache
+D:\Nasir\crud  operation .NetCore controller apis\obj\Debug\netcoreapp3.1\crud  operation.MvcApplicationPartsAssemblyInfo.cs
+D:\Nasir\crud  operation .NetCore controller apis\obj\Debug\netcoreapp3.1\crud  operation.MvcApplicationPartsAssemblyInfo.cache
+D:\Nasir\crud  operation .NetCore controller apis\obj\Debug\netcoreapp3.1\staticwebassets\crud  operation.StaticWebAssets.Manifest.cache
+D:\Nasir\crud  operation .NetCore controller apis\obj\Debug\netcoreapp3.1\crud  operation.RazorTargetAssemblyInfo.cache
+D:\Nasir\crud  operation .NetCore controller apis\obj\Debug\netcoreapp3.1\crud  operation.csproj.CopyComplete
+D:\Nasir\crud  operation .NetCore controller apis\obj\Debug\netcoreapp3.1\crud  operation.dll
+D:\Nasir\crud  operation .NetCore controller apis\obj\Debug\netcoreapp3.1\crud  operation.pdb
+D:\Nasir\crud  operation .NetCore controller apis\obj\Debug\netcoreapp3.1\crud  operation.genruntimeconfig.cache
+d:\Nasir\crud_operation_NetCore_controller_apis\bin\Debug\netcoreapp3.1\appsettings.Development.json
+d:\Nasir\crud_operation_NetCore_controller_apis\bin\Debug\netcoreapp3.1\appsettings.json
+d:\Nasir\crud_operation_NetCore_controller_apis\bin\Debug\netcoreapp3.1\crud  operation.exe
+d:\Nasir\crud_operation_NetCore_controller_apis\bin\Debug\netcoreapp3.1\crud  operation.deps.json
+d:\Nasir\crud_operation_NetCore_controller_apis\bin\Debug\netcoreapp3.1\crud  operation.runtimeconfig.json
+d:\Nasir\crud_operation_NetCore_controller_apis\bin\Debug\netcoreapp3.1\crud  operation.runtimeconfig.dev.json
+d:\Nasir\crud_operation_NetCore_controller_apis\bin\Debug\netcoreapp3.1\crud  operation.dll
+d:\Nasir\crud_operation_NetCore_controller_apis\bin\Debug\netcoreapp3.1\crud  operation.pdb
+d:\Nasir\crud_operation_NetCore_controller_apis\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+d:\Nasir\crud_operation_NetCore_controller_apis\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+d:\Nasir\crud_operation_NetCore_controller_apis\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+d:\Nasir\crud_operation_NetCore_controller_apis\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+d:\Nasir\crud_operation_NetCore_controller_apis\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+d:\Nasir\crud_operation_NetCore_controller_apis\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+d:\Nasir\crud_operation_NetCore_controller_apis\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+d:\Nasir\crud_operation_NetCore_controller_apis\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+d:\Nasir\crud_operation_NetCore_controller_apis\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+d:\Nasir\crud_operation_NetCore_controller_apis\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+d:\Nasir\crud_operation_NetCore_controller_apis\obj\Debug\netcoreapp3.1\crud  operation.csproj.AssemblyReference.cache
+d:\Nasir\crud_operation_NetCore_controller_apis\obj\Debug\netcoreapp3.1\crud  operation.GeneratedMSBuildEditorConfig.editorconfig
+d:\Nasir\crud_operation_NetCore_controller_apis\obj\Debug\netcoreapp3.1\crud  operation.AssemblyInfoInputs.cache
+d:\Nasir\crud_operation_NetCore_controller_apis\obj\Debug\netcoreapp3.1\crud  operation.AssemblyInfo.cs
+d:\Nasir\crud_operation_NetCore_controller_apis\obj\Debug\netcoreapp3.1\crud  operation.csproj.CoreCompileInputs.cache
+d:\Nasir\crud_operation_NetCore_controller_apis\obj\Debug\netcoreapp3.1\crud  operation.MvcApplicationPartsAssemblyInfo.cs
+d:\Nasir\crud_operation_NetCore_controller_apis\obj\Debug\netcoreapp3.1\crud  operation.MvcApplicationPartsAssemblyInfo.cache
+d:\Nasir\crud_operation_NetCore_controller_apis\obj\Debug\netcoreapp3.1\staticwebassets\crud  operation.StaticWebAssets.Manifest.cache
+d:\Nasir\crud_operation_NetCore_controller_apis\obj\Debug\netcoreapp3.1\crud  operation.RazorTargetAssemblyInfo.cache
+d:\Nasir\crud_operation_NetCore_controller_apis\obj\Debug\netcoreapp3.1\crud  operation.csproj.CopyComplete
+d:\Nasir\crud_operation_NetCore_controller_apis\obj\Debug\netcoreapp3.1\crud  operation.dll
+d:\Nasir\crud_operation_NetCore_controller_apis\obj\Debug\netcoreapp3.1\crud  operation.pdb
+d:\Nasir\crud_operation_NetCore_controller_apis\obj\Debug\netcoreapp3.1\crud  operation.genruntimeconfig.cache
+C:\Users\SA Systems\source\repos\crud_operation_NetCore_controller_apis\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\SA Systems\source\repos\crud_operation_NetCore_controller_apis\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\SA Systems\source\repos\crud_operation_NetCore_controller_apis\bin\Debug\netcoreapp3.1\crud  operation.exe
+C:\Users\SA Systems\source\repos\crud_operation_NetCore_controller_apis\bin\Debug\netcoreapp3.1\crud  operation.deps.json
+C:\Users\SA Systems\source\repos\crud_operation_NetCore_controller_apis\bin\Debug\netcoreapp3.1\crud  operation.runtimeconfig.json
+C:\Users\SA Systems\source\repos\crud_operation_NetCore_controller_apis\bin\Debug\netcoreapp3.1\crud  operation.runtimeconfig.dev.json
+C:\Users\SA Systems\source\repos\crud_operation_NetCore_controller_apis\bin\Debug\netcoreapp3.1\crud  operation.dll
+C:\Users\SA Systems\source\repos\crud_operation_NetCore_controller_apis\bin\Debug\netcoreapp3.1\crud  operation.pdb
+C:\Users\SA Systems\source\repos\crud_operation_NetCore_controller_apis\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\SA Systems\source\repos\crud_operation_NetCore_controller_apis\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SA Systems\source\repos\crud_operation_NetCore_controller_apis\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SA Systems\source\repos\crud_operation_NetCore_controller_apis\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SA Systems\source\repos\crud_operation_NetCore_controller_apis\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\SA Systems\source\repos\crud_operation_NetCore_controller_apis\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\SA Systems\source\repos\crud_operation_NetCore_controller_apis\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\SA Systems\source\repos\crud_operation_NetCore_controller_apis\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\SA Systems\source\repos\crud_operation_NetCore_controller_apis\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SA Systems\source\repos\crud_operation_NetCore_controller_apis\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SA Systems\source\repos\crud_operation_NetCore_controller_apis\obj\Debug\netcoreapp3.1\crud  operation.csproj.AssemblyReference.cache
+C:\Users\SA Systems\source\repos\crud_operation_NetCore_controller_apis\obj\Debug\netcoreapp3.1\crud  operation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SA Systems\source\repos\crud_operation_NetCore_controller_apis\obj\Debug\netcoreapp3.1\crud  operation.AssemblyInfoInputs.cache
+C:\Users\SA Systems\source\repos\crud_operation_NetCore_controller_apis\obj\Debug\netcoreapp3.1\crud  operation.AssemblyInfo.cs
+C:\Users\SA Systems\source\repos\crud_operation_NetCore_controller_apis\obj\Debug\netcoreapp3.1\crud  operation.csproj.CoreCompileInputs.cache
+C:\Users\SA Systems\source\repos\crud_operation_NetCore_controller_apis\obj\Debug\netcoreapp3.1\crud  operation.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SA Systems\source\repos\crud_operation_NetCore_controller_apis\obj\Debug\netcoreapp3.1\crud  operation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SA Systems\source\repos\crud_operation_NetCore_controller_apis\obj\Debug\netcoreapp3.1\staticwebassets\crud  operation.StaticWebAssets.Manifest.cache
+C:\Users\SA Systems\source\repos\crud_operation_NetCore_controller_apis\obj\Debug\netcoreapp3.1\crud  operation.RazorTargetAssemblyInfo.cache
+C:\Users\SA Systems\source\repos\crud_operation_NetCore_controller_apis\obj\Debug\netcoreapp3.1\crud  operation.csproj.CopyComplete
+C:\Users\SA Systems\source\repos\crud_operation_NetCore_controller_apis\obj\Debug\netcoreapp3.1\crud  operation.dll
+C:\Users\SA Systems\source\repos\crud_operation_NetCore_controller_apis\obj\Debug\netcoreapp3.1\crud  operation.pdb
+C:\Users\SA Systems\source\repos\crud_operation_NetCore_controller_apis\obj\Debug\netcoreapp3.1\crud  operation.genruntimeconfig.cache
+D:\Nasir\crud_operation_NetCore_controller_apis\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+D:\Nasir\crud_operation_NetCore_controller_apis\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\Nasir\crud_operation_NetCore_controller_apis\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\Nasir\crud_operation_NetCore_controller_apis\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+D:\Nasir\crud_operation_NetCore_controller_apis\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Nasir\crud_operation_NetCore_controller_apis\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll

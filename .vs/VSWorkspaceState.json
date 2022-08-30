@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CommonLayer",
+    "\\CommonLayer\\Model",
+    "\\Controllers",
+    "\\Properties",
+    "\\RepositoryLayer",
+    "\\ServiceLayer"
+  ],
+  "SelectedNode": "\\CommonLayer\\Model\\CreateRecord.cs",
+  "PreviewInSolutionExplorer": false
+}
