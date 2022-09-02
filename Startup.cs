@@ -13,12 +13,12 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using System.Web.Http.Cors;
-using Microsoft.AspNetCore.Cors;
+//using Microsoft.AspNetCore.Cors;
 
 namespace crud__operation
 {
-    public class Startup
-    {
+    public class Startup{
+      
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
@@ -29,14 +29,20 @@ namespace crud__operation
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-           
-           
+         
             
+           
+
+
             services.AddControllers();
-            services.AddScoped<ICrudOperationSL, CrudOperationSL>();
-            services.AddScoped<ICrudOperationRL, CrudOperationRL>();
+            services.AddTransient<ICrudOperationSL, CrudOperationSL>();
+            services.AddTransient<ICrudOperationRL, CrudOperationRL>();
             services.AddSwaggerGen();
-            services.AddCors();
+            services.AddCors(options => options.AddDefaultPolicy(
+             builder => builder.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod()
+
+         ));
+
 
         }
 
@@ -48,13 +54,15 @@ namespace crud__operation
                 app.UseDeveloperExceptionPage();
             }
 
-            app.UseHttpsRedirection();
+        
        
 
             app.UseRouting();
-
-            app.UseAuthorization();
             app.UseCors();
+
+          
+           
+
 
             app.UseEndpoints(endpoints =>
             {

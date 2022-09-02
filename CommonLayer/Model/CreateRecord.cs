@@ -3,7 +3,7 @@
     public class CreateRecordRequest
     {
         public string UserName { get; set; }
-        public int Age { get; set; }
+        public string Age { get; set; }
 
    
 

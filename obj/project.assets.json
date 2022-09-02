@@ -6131,11 +6131,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Nasir\\crud_operation_NetCore_controller_apis\\crud  operation.csproj",
+      "projectUniqueName": "C:\\Users\\SA Systems\\Documents\\Nasir\\crud_operation_NetCore_controller_apis\\crud  operation.csproj",
       "projectName": "crud  operation",
-      "projectPath": "D:\\Nasir\\crud_operation_NetCore_controller_apis\\crud  operation.csproj",
+      "projectPath": "C:\\Users\\SA Systems\\Documents\\Nasir\\crud_operation_NetCore_controller_apis\\crud  operation.csproj",
       "packagesPath": "C:\\Users\\SA Systems\\.nuget\\packages\\",
-      "outputPath": "D:\\Nasir\\crud_operation_NetCore_controller_apis\\obj\\",
+      "outputPath": "C:\\Users\\SA Systems\\Documents\\Nasir\\crud_operation_NetCore_controller_apis\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SA Systems\\AppData\\Roaming\\NuGet\\NuGet.Config",

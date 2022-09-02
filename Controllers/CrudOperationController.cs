@@ -9,7 +9,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace crud__operation.Controllers
 {
     [EnableCors]
-    [Route("api/controller")]
+    [Route("api/[controller]")]
     [ApiController]
     public class CrudOperationController : ControllerBase
     {
@@ -56,7 +56,7 @@ namespace crud__operation.Controllers
             return Ok(response);
         }
         [HttpPut]
-        [Route("UpdateRecord")]
+        [Route("api/UpdateRecord")]
         public async Task<IActionResult> UpdateRecord( UpdateRecordRequest request)
         {
             UpdateRecordResponse response = null;
@@ -73,7 +73,7 @@ namespace crud__operation.Controllers
         }
 
         [HttpDelete]
-        [Route("DeleteRecord")]
+        [Route("api/DeleteRecord")]
         public async Task<IActionResult> DeleteRecord(DeleteRecordRequest request)
         {
             DeleteRecordResponse response = null;
